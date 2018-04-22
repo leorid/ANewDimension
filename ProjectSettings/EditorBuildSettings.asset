@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Intro.unity
+    guid: 6e4cabeb03c4f1649959496bb88df80a
+  - enabled: 1
+    path: Assets/StraigtForward.unity
+    guid: 03732634379b56844a690767c8c7e94d
+  - enabled: 1
+    path: Assets/Downward.unity
+    guid: 86178a080ffeb2f4f9843972f7a7c81d
+  - enabled: 1
+    path: Assets/Stairway2Boss.unity
+    guid: 9524968e6ffcf2946a7150edc7206513
+  - enabled: 1
+    path: Assets/TheNextDimension.unity
+    guid: fdfb3c8825e6f48499e80031a0476aa4
+  - enabled: 1
+    path: Assets/AgainstTheProgrammer.unity
+    guid: 44b91f6932b53d242a3633ce97e2137a
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: e6ba979df56442340b8ca45a9b9e4388

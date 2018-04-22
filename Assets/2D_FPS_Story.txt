@@ -1,0 +1,9 @@
+Level 1 Straightforward -> just go along the path and reach the end, learning controls
+
+Level 2 Downward -> mostly falling down, shooting some enemies --> need some fall damage
+
+Level 3 Stairway to Boss -> the one thats chasing you, reacht him, kill him (just a bigger version of another enemy, easy)
+
+Level 4 The next Dimensions -> jump over the platforms in 3d, platforms are now on different heights, enemies remain 2d, don't touch them thought
+
+when reached the end of Level 4, you gain the ability to look upward, where you see the frustrated programmer, talking about you "the bug" in his 2D Prototype for the Ludum Dare Game Jam. Shoot at him, because he tries to stop you by adding 3D assets. Kill the assets, shoot at the Programmer for a few seconds and you will find a path to the internet (just a tunnel with numbers and an entry sign) go throught it and take over the world.
